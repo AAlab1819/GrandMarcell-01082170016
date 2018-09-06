@@ -16,7 +16,7 @@ calculation:\
   [**Solution**](https://codeforces.com/contest/912/submission/42430769)
   
   ## 854A: Fraction 
-[**Problem**](https://codeforces.com/problemset/problem/854/A)
+[**Problem**](https://codeforces.com/problemset/problem/854/A)\
 This problem is asking us to find the highest possible fraction that cannot be simplified.
 Also We need to find the numerator and denominator. The denominator must be smaller than the numerator but we need to find the largest denominator that can be resulted.\
 That a fraction  is called proper iff its numerator is smaller than its denominator (a < b) and that the fraction is called irreducible if its numerator and its denominator are coprime (they do not have positive common divisors except 1).\
@@ -28,8 +28,7 @@ if the input number is even\
 else if the number is odd\
 	divider = number/2 ( var = int)\
 	a = divider\
-	b = divider +1\
-
+	b = divider +1 \
 print a b\
 [**Solution**](https://codeforces.com/contest/854/submission/42445632)
 
