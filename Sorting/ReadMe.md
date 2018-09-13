@@ -1,6 +1,6 @@
 # Week 02
 
-## 230A: Dragons 
+## 230 A : Dragons 
 This problem is asking us to help kirito If Kirito starts duelling with the i-th (1 ≤ i ≤ n) dragon and Kirito's strength is not greater than the dragon's strength xi, then Kirito loses the duel and dies. 
 But if Kirito's strength is greater than the dragon's strength, then he defeats the dragon and gets a bonus strength increase by yi.
 Kirito can fight the dragons in any order. Determine whether he can move on to the next level of the game, that is, defeat all dragons without a single loss.
@@ -14,7 +14,7 @@ On a single line print "YES" (without the quotes), if Kirito can move on to the 
 ## [**Problem**](https://codeforces.com/problemset/problem/230/A) <> [**Solution**](http://codeforces.com/contest/230/submission/42824138)
 
 
-## 291A: Spyke Talks
+## 291 A : Spyke Talks
 This problems is asking us to help Help Polycarpus analyze these data and find out the number of pairs of secretaries that are talking.
 If Polycarpus has made a mistake in the data and the described situation could not have taken place, say so.
 Note that the secretaries can correspond via Spyke not only with each other, but also with the people from other places.
@@ -33,7 +33,7 @@ Print a single integer — the number of pairs of chatting secretaries, or -1 if
 ## [**Problems**](https://codeforces.com/problemset/problem/291/A) <> [**Solution**](http://codeforces.com/contest/291/submission/42823757)\
 
 
-## 768A: oath of The Night's Watch
+## 768 A : oath of The Night's Watch
 This problems asking us to help jon snow.With that begins the watch of Jon Snow. He is assigned the task to support the stewards.
 This time he has n stewards with him whom he has to provide support. 
 Each steward has his own strength. 
