@@ -1,7 +1,7 @@
 # WEEK9
 
 # Uva 10130 - SuperSale
-## <[problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1071)>
+## <[Problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1071)>
 
 For this problem, i'm using the KnapSack method for the supersale problem. In this problem, we'll find the maximum values from the objects in which a person can acquire, and also finding corresponding to the maximum possible amount of weight the person can carry from the given objects.
 
